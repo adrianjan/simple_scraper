@@ -1,6 +1,7 @@
 # Proxy Management and URL Generation Script
 
 This Python script provides a simple way to manage proxies and generate URLs from a predefined list.
+For security reasons, this is just a snippet, without using the function.
 
 ## Features
 
