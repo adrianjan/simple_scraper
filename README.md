@@ -38,7 +38,7 @@ For security reasons, this is just a snippet, without using the functions.
 
 4. Run the script:
     ```bash
-    python find_companies.py
+    python get_data.py
     ```
 
 ## Usage
